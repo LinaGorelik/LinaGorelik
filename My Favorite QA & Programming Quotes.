@@ -3,3 +3,42 @@ My Favorite QA & Programming Quotes.
 "Automated scripts are checking known paths for expected results. That’s not truly testing. Testers discover the unknown, and this skill is still very much so needed, whether there’s automation or not. Without human intuitive exploration, a team may be blind to their most expensive bugs." - Angie Jones
 "While we may understand the problem, it is critical for us to change our thinking, our practices, and continuously evolve to stay ahead of the problems we face." - Mike Lyles
 "Share the pain and find together the solution." - Lisa Crispin
+“Testing is an act of quality craftsmanship — not just a checklist.”
+Тестирование — это акт качественной работы, а не просто список задач.
+“QA doesn’t slow you down. Bad quality does.”
+QA не замедляет вас. Замедляет плохое качество.
+“A tester is someone who knows that things can always go wrong — and makes sure they don’t.”
+Тестировщик — это тот, кто знает, что всё может пойти не так, и делает так, чтобы этого не случилось.
+“Software testers are the guardians of user experience.”
+Тестировщики — стражи пользовательского опыта.
+“Quality is not an act, it is a habit.” – Aristotle
+Качество — не действие, а привычка.
+"Built for reliability. Designed for excellence."
+Создано для надёжности. Спроектировано для совершенства.
+(в духе "Built for Apple Intelligence")
+"The instant classic: flawless software, every time."
+Мгновенная классика: безупречное ПО каждый раз.
+"Testers make sure the hearing aid feature works for everyone — not just some."
+Тестировщики убеждаются, что функция «слуховой аппарат» работает для всех.
+"Testing is how we ensure that innovation never sacrifices usability."
+Тестирование — это как мы гарантируем, что инновации не жертвуют удобством.
+🎯 Цитаты о роли тестировщика в процессе разработки:
+"Developers build the car. Testers drive it to the edge — and make sure it doesn't fall off."
+Разработчики строят машину. Тестировщики ведут её к краю — и проверяют, не упадёт ли.
+"A bug is more than a line in Jira — it's a broken promise to the user."
+Баг — это больше чем строка в Jira. Это нарушенное обещание пользователю.
+"We don’t test software to break it — we test it to deliver it with confidence."
+Мы тестируем ПО не для того, чтобы его сломать, а чтобы доставить его уверенно.
+"Good code is tested code. Great code is unbreakable code."
+Хороший код — протестированный. Отличный код — неразрушаемый.
+"If you think QA slows you down, try shipping bad software."
+Если думаешь, что QA замедляет — попробуй отправить плохое ПО.
+💬 Известные личности о качестве:
+Steve Jobs:
+“Details matter, it’s worth waiting to get right.”
+Детали имеют значение. Стоит подождать, чтобы сделать их правильно.
+👉 Подходит как мантра для QA-инженера!
+Martin Fowler (авторитет в мире разработки):
+“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
+Любой дурак может написать код, который компьютер поймёт. Хорошие программисты пишут код, который поймут люди.
+👉 QA дополняет это: “And testers make sure humans won’t be confused by it.”
