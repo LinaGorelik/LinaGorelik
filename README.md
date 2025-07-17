@@ -20,7 +20,7 @@ I am a QA engineer, passionate about:
 - Manual and automated testing
 - Preparing test cases and bug reports
 - Integration with Jira, TestRail, Allure
-- Working with Newman, Git, CI/CD
+- Working with Newman, Git, CI/CD and much more
 
 ### 🔹 Artificial intelligence
 - Testing AI models via Postman
