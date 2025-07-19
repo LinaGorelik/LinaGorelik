@@ -1,8 +1,6 @@
 ## Hello Everyone! 👋 My name is [Lina Gorelik](https://www.linkedin.com/in/lina-gorelik). I'm Software QA Automation AI Engineer.
 
 Here I share my projects, ideas and knowledge about testing, automation and artificial intelligence.
-
-[🎮 View Interactive Skills]
 ---
 
 ## 💡 What is this profile about?
