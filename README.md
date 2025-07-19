@@ -2,7 +2,7 @@
 
 Here I share my projects, ideas and knowledge about testing, automation and artificial intelligence.
 
-[🎮 View Interactive Skills(https://your-username.github.io/interactive-skills/)]
+[🎮 View Interactive Skills]
 ---
 
 ## 💡 What is this profile about?
