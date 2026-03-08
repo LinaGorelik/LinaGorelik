@@ -10,9 +10,8 @@ I am a QA engineer, passionate about:
 - API, UI, Performance, Security testing
 - AI integration into testing processes
 ---
-<div id="header" align="center">
-  <img src="(https://github.com/LinaGorelik/LinaGorelik/blob/main/Add%20AI%20lab%20image)" width="800"/>
-</div>
+
+![I](https://github.com/user-attachments/assets/2a198136-0678-4aa8-b2a0-f5487c9baad0)
 
 
 # 💼 TECHNICAL SKILLS
