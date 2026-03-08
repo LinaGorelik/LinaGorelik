@@ -11,9 +11,10 @@ I am a QA engineer, passionate about:
 - AI integration into testing processes
 ---
 <div id="header" align="center">
-  <img src="https://github.com/LinaGorelik/LinaGorelik/blob/main/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B0%D1%8F%20%D0%B7%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0%203.png" width="800"/>
+  <img src="https://github.com/LinaGorelik/LinaGorelik/blob:null/9162ad75-a488-41ad-8830-2cd63b4f92d1.png" width="800"/>
 </div>
 
+# blob:null/9162ad75-a488-41ad-8830-2cd63b4f92d1
 # 💼 TECHNICAL SKILLS
 
 ## 🔧 Automation Testing Tools
