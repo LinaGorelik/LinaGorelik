@@ -15,6 +15,10 @@ I am a QA engineer, passionate about:
 </div>
 
 
+<video src="https://github.com/user/repo/raw/main/video.mp4" width="600" controls>
+  Ваш браузер не поддерживает видео.
+</video>
+
 # 💼 TECHNICAL SKILLS
 
 ## 🔧 Automation Testing Tools
