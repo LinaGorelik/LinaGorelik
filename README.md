@@ -11,7 +11,7 @@ I am a QA engineer, passionate about:
 - AI integration into testing processes
 ---
 
-![I](https://github.com/user-attachments/assets/2a198136-0678-4aa8-b2a0-f5487c9baad0)
+<img width="1189" height="896" alt="Foto Resume" src="https://github.com/user-attachments/assets/1e0328b0-9a60-431c-a81a-656e08434826" />
 
 
 # 💼 TECHNICAL SKILLS
