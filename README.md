@@ -125,5 +125,5 @@ https://github.com/user-attachments/assets/af6a999a-0978-4594-af4b-58af8ec218fe
 - Lina Gorelik — [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lina-gorelik/)
 
 <code><img width="1%" src="https://github.com/user-attachments/assets/d8634330-234a-4e0e-b163-b8859a1b66bf"></code>
-_[Lina Gorelik](https://www.linkedin.com/in/lina-gorelik/)
+[Lina Gorelik](https://www.linkedin.com/in/lina-gorelik/)
 
