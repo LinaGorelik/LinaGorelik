@@ -117,3 +117,9 @@ https://github.com/user-attachments/assets/af6a999a-0978-4594-af4b-58af8ec218fe
 * 	"Share the pain and find together the solution." - Lisa Crispin
 
 
+## My LinkedIn profile
+
+
+- [Lina Gorelik](https://www.linkedin.com/in/lina-gorelik/)
+
+- Lina Gorelik — [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lina-gorelik/)
