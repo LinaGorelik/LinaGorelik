@@ -129,3 +129,5 @@ https://github.com/user-attachments/assets/af6a999a-0978-4594-af4b-58af8ec218fe
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lina-gorelik/) - Lina Gorelik 
+
+-	Dordzhi Yashkeev  - https://www.linkedin.com/in/dordzhi-yashkeev/
