@@ -131,3 +131,12 @@ https://github.com/user-attachments/assets/af6a999a-0978-4594-af4b-58af8ec218fe
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lina-gorelik/) - Lina Gorelik 
 
 -	Dordzhi Yashkeev  - https://www.linkedin.com/in/dordzhi-yashkeev/
+-	https://www.linkedin.com/in/kirill-permiakov
+
+  # Automation Framework
+Requirements
+- Python
+- Pytest
+Run: pytest tests/
+<img width="539" height="260" alt="image" src="https://github.com/user-attachments/assets/704c8693-da60-46d1-8ab6-25f878317c9e" />
+
