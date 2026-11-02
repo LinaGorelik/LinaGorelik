@@ -13,6 +13,7 @@ I am a QA engineer, passionate about:
 
 <img width="1189" height="896" alt="Foto Resume" src="https://github.com/user-attachments/assets/1e0328b0-9a60-431c-a81a-656e08434826" />
 
+<img width="2395" height="2268" alt="image" src="https://github.com/user-attachments/assets/5b5b1da3-d604-4f8a-b260-13182b432f16" />
 
 
 https://github.com/user-attachments/assets/af6a999a-0978-4594-af4b-58af8ec218fe
